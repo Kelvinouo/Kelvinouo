@@ -1,12 +1,6 @@
-### Hello, I'm Blockman - aka [Fern][website] 👋 
+### Hello, I'm [Fern][website] 👋 
 
 [![Website](https://img.shields.io/website?label=fern.wtf&style=for-the-badge&url=https%3A%2F%2Ffern.wtf)](https://fern.wtf)
-
-## I'm a Roblox Developer!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other roblox developer
-- ⚡ Fun fact: I love to draw and singing
 
 ### Connect with me:
 
@@ -32,7 +26,6 @@
 
 ---
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/539395263257903104)](discord)
 <br />
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kelvinouo&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
